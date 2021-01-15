@@ -1,0 +1,22 @@
+#cvHeader {
+
+    margin: 70 px;
+    border-style: solid;
+    border-color: darkslategray;
+    background-color: darkslategray;
+    text-align: center;
+
+}
+
+.font {
+
+    color: white;
+    
+}
+
+.hplFont {
+
+    color: black;
+    padding: 10 px;
+
+}
